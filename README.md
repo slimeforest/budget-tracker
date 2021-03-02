@@ -9,3 +9,7 @@ https://github.com/slimeforest/budget-tracker
 
 Live Page:
 https://budget-tracker12345678912345.herokuapp.com
+
+# Images
+![empty database](screenshots/1.png)
+![site after some online and offline transactions](screenshots/2.png)
